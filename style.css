@@ -21,7 +21,7 @@ button{
     border-radius: 10px;
     color: darkslateblue;
 }
-.buttonBar{
+.button-bar{
     position: absolute;
     top: 110%;
     left: 50%;
