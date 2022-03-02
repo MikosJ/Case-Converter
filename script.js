@@ -36,7 +36,6 @@ document.getElementById("sentence-case").addEventListener("click", function(){
         text.value += arr[i]+". ";
     }
     text.value = text.value.trim().substring(0,text.value.trim().length - 1);
-    console.log(text.value);
     document.getElementById("text").value = text.value;
 })
 
